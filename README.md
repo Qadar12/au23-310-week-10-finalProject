@@ -24,6 +24,8 @@ How to use
 
 5. Click the "Search Recipes" button to retrieve and display recipes based on your criteria.
 
+   Note: If the API doesn't yield recipes that match your criteria, the results section will be blank, and an error will be logged.
+
 6. Explore the results, including recipe names, images, calorie information, ingredients, and cooking time.
 
 7. Your search is saved under the 'Search History' section.
